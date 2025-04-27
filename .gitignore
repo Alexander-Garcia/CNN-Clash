@@ -1,0 +1,10 @@
+.DS_Store
+/scrape/all_clash
+/scrape/split_clash
+
+# Virtual Environment
+venv/
+env/
+.env
+.venv
+ENV/
